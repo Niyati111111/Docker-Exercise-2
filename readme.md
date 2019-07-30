@@ -1,26 +1,8 @@
-Muzix Application Case Study
-1 Name of Project Muzix Application
-2 Objective/Vision This is an online application that helps users manage music
-listed on Music Database (​ https://www.last.fm​ ).
-Using this app, a user should be able to search and
-manage music.
-3 Users of the system
-4 Functional
-Requirements
-All Internet users
-1. Application should allow all the users to perform the
-following activities:
-a. Save track information such as trackId,
-trackName, comments of the track.
-b. Display saved track.
-c. Update comments of saved track.
-d. Remove track
-5 Non-Functional
-Requirements 1. App should be accessible from any location with access
-to the Internet.
-2. App should be responsive to display consistently across
-multiple device screens.
-3. App should have an intuitive UI that can be operated by
-novice expert Internet users.
-6 Tools and technologies
-to be used To Be Decided
+Docker Exercise 2:
+Dockerize a Spring Boot Application that accesses MongoDB
+Step 1: Ensure MongoDB is running in Docker
+Step 2: Package the SpringBoot application
+Step 3: Write the Dockerfile
+Step 4: Build the image
+Step 5: Run the application in the container
+Step 6: Verify the setup
